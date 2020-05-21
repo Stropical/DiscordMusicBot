@@ -1,7 +1,7 @@
 # DiscordMusicBot
 This is a discord music bot! Add it to discord and enjoy playing with your friends and listening to high quality music. Install is fairly simple.
 
-##Instalation and Setup
+## Instalation and Setup
 Step 1: Head over to the FFMPEG website(https://ffmpeg.org/download.html) and download that.
 Step 2: Add it to your path variables
 Step 3: Clone project
@@ -24,10 +24,10 @@ Step 6: Launch it!
 node index.js
 ```
 
-##Commands
+## Commands
 Right now our only commands are 
 
 %play <search term>
 
-##Contributions
+## Contributions
 Please add to this!
